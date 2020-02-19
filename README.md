@@ -27,7 +27,6 @@ Netflix Clone
 This app features all the latest tools and practices in mobile development!
 
 - :pencil2: **Figma** — Figma is an interface design application that runs in the browser
-- ⚛️ **React Js** — A JavaScript library for building user interfaces
 - ⚛️ **React Native** — A lib that provides a way to create native apps for Android and iOS
 
 ## License
